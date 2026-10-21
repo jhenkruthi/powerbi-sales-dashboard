@@ -4,6 +4,11 @@
 
 An interactive sales dashboard built using Microsoft Power BI to analyze sales performance, product revenue, customer metrics, and sales trends over time.
 
+🖼️ Dashboard Preview
+
+<img width="1327" height="742" alt="dashboard-preview png" src="https://github.com/user-attachments/assets/27d71faf-5512-48d8-9e76-85a0eddc190b" />
+
+
 🎯 Project Objectives
 
 Monitor overall sales performance.
